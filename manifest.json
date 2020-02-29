@@ -1,6 +1,11 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "name": "DAILY EXPENSE APP",
+  "short_name": "Daily Expense App",
+  "description": "Web app used to calculate your Daily Expense",
+  "start_url": ".",
+  "background_color": "#ffffff",
+  "theme_color": "#3f51b5",
+  "display": "standalone",
   "icons": [
     {
       "src": "favicon.ico",
@@ -17,9 +22,5 @@
       "type": "image/png",
       "sizes": "512x512"
     }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  ]
 }
